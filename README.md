@@ -10,7 +10,7 @@
 
 ## Capstone Projects
 - Application of Rashomon Theory in Cancer Prognosis (Final Year Project)
-- NTU STARS Java application -- non graphical interface (Object Oriented Programming module: CE2002)
+- [NTU STARS](https://github.com/yuhuiwee/MySTARS) Java application -- non graphical interface (Object Oriented Programming module: CE2002)
 - Supervised and unsupervised learning in Python on Amazon reviews (Data Analytics Module CE9010)
 
 <!--
