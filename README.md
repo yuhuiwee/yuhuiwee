@@ -3,6 +3,7 @@
 ## About Me:
 - Year 4 Biologist at NTU 🧬
 - Minor in Computing and Data Analytics 📊
+- LinkedIn profile [here](https://www.linkedin.com/in/yuhui-wee/)
 
 ## Interests:
 - Healthcare 🩺
@@ -10,6 +11,7 @@
 
 ## Capstone Projects
 - Application of Rashomon Theory in Cancer Prognosis (Final Year Project)
+  - Currently conducting FYP under [Dr Wilson Goh](https://gohwils.github.io/biodatascience/)
 - [NTU STARS](https://github.com/yuhuiwee/MySTARS) Java application -- non graphical interface (Object Oriented Programming module: CE2002)
 - Supervised and unsupervised learning in Python on Amazon reviews (Data Analytics Module CE9010)
 
